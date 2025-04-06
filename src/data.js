@@ -8,6 +8,7 @@ function chillHop() {
             artist: "Aso, Middle School, Aviino",
             audio: "https://stream.chillhop.com/mp3/10075",
             color: ["#205950", "#2ab3bf"],
+            duration: '2:17',
             id: uuidv4(),
             active: true,
         },
@@ -18,6 +19,7 @@ function chillHop() {
             artist: "Aiguille",
             audio: "https://stream.chillhop.com/mp3/9272",
             color: ["#EF8EA9", "#ab417f"],
+            duration: '2:21',
             id: uuidv4(),
             active: false,
         },
@@ -28,6 +30,7 @@ function chillHop() {
             artist: "Swørn",
             audio: "https://stream.chillhop.com/mp3/9222",
             color: ["#CD607D", "#c94043"],
+            duration: '2:30',
             id: uuidv4(),
             active: false,
         },
@@ -38,6 +41,7 @@ function chillHop() {
             artist: "Aiguille",
             audio: "https://stream.chillhop.com/mp3/9148",
             color: ["#EF8EA9", "#ab417f"],
+            duration: '2:26',
             id: uuidv4(),
             active: false,
         },
@@ -48,6 +52,7 @@ function chillHop() {
             artist: "Swørn",
             audio: "https://stream.chillhop.com/mp3/9228",
             color: ["#CD607D", "#c94043"],
+            duration: '2:58',
             id: uuidv4(),
             active: false,
         },
@@ -58,10 +63,11 @@ function chillHop() {
             artist: "Aso, Middle School, Aviino",
             audio: "https://stream.chillhop.com/mp3/10074",
             color: ["#205950", "#2ab3bf"],
+            duration: '2:13',
             id: uuidv4(),
             active: false,
         },
-        //ADD MORE HERE
+
     ];
 }
 

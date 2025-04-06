@@ -1,0 +1,38 @@
+.playlist-song {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 8px;
+
+    // background-color: antiquewhite;
+    img {
+        width: 60px;
+        border-radius: 50%;
+    }
+
+    .song-info {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+.song-name {
+    h5 {
+        font-weight: 400;
+        font-size: 18px;
+        color: rgba(255, 255, 255, 0.9);
+
+    }
+
+    p {
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.6);
+        ;
+    }
+}
+
+.song-duration {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 18px;
+}
